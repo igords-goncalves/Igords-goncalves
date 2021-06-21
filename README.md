@@ -1,4 +1,8 @@
-### Hi there 👋
+# Sobre
+
+Eu gosto de dizer que sou um aprendiz nesse mundo tão veloz, e nesse processo de aprendIzado encontro o prazer de aprender coisas novas a acada dia. Atualmente estou em um processo de transição de carreira, saindo da area industrial para a area de tecnologia, também estou terminando minha formação em administração. Além das coisas convecionais como _música, livros, cinema_ ...
+
+
 
 <!--
 **Igords-goncalves/Igords-goncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
