@@ -48,9 +48,9 @@ I am passionate about programming logic and desing, and all my fundamentals of s
 ## Current development focus
 
 * Programming Logic and Algorithms
-* C e C++
+* C and C++
 * SQL
-* HMTL5 e CSS3
+* HMTL5 and CSS3
 * JavaScript
 * Angular
 * React
