@@ -16,7 +16,7 @@ Sou apaixonado por lógica de programação e desing, e todos meus fundamentos d
 
 * Lógica de programação e Algoritmos
 * C e C++
-* MySQL
+* SQL
 * HMTL5 e CSS3
 * JavaScript
 * Angular
@@ -49,7 +49,7 @@ I am passionate about programming logic and desing, and all my fundamentals of s
 
 * Programming Logic and Algorithms
 * C e C++
-* MySQL
+* SQL
 * HMTL5 e CSS3
 * JavaScript
 * Angular
