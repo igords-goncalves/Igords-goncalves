@@ -20,6 +20,7 @@ Sou apaixonado por lógica de programação e desing, e todos meus fundamentos d
 * HMTL5 e CSS3
 * JavaScript
 * Angular
+* React
 * Java
 
 ## Participação em projetos notáveis
@@ -52,6 +53,7 @@ I am passionate about programming logic and desing, and all my fundamentals of s
 * HMTL5 e CSS3
 * JavaScript
 * Angular
+* React
 * Java
 
 ## Participation in projects
