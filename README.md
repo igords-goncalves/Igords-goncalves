@@ -27,8 +27,6 @@ Sou apaixonado por lógica de programação e desing, e todos meus fundamentos d
 
 Insituição         | Ano   | Area                                                                              |
 ------------------ | ----- | --------------------------------------------------------------------------------  |
-Santander Bootcamp - DIO | 2021  | Fullstack Developer focado primordialmente em soluções Java p/ Back-end e Angular para Front-end. | 
-Santander Coders - Let's Code | 2021  | Fullstack Developer focado primordialmente em soluções Java p/ Back-end e Angular para Front-end. | 
 HTML, CSS e JavaScript bootcamp - DIO  | 2021  | HTML, CSS e JavaScript focado no aperfeiçoamento das soluções em Front-end utilizando JavaScript.|
 
 **Meu objetivo principal aqui é contribuir com meu conhecimento junto aos meus registros, e receber conhecimento.**
@@ -60,8 +58,6 @@ I am passionate about programming logic and desing, and all my fundamentals of s
 
 Institution     | Year   | Area                                                                              |
 ------------------ | ----- | --------------------------------------------------------------------------------  |
-Santander Bootcamp - DIO | 2021  | Fullstack Developer focusing mainly in solutions Java to Back-end and Angular to Front-end. | 
-Sanatnder Coders - Let's Code | 2021  | Fullstack Developer focusing mainly in solutions Java to Back-end and Angular to Front-end. | 
 HTML CSS and JavaScrit bootcamp - DIO  | 2021  | HTML, CSS e JavaScript focusing in improviment of the solutions Front-end using JavaScript. |
 
 ** My main here is to contribute my knowledge to my projects, and receive knowledge.**
