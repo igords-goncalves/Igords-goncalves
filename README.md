@@ -15,7 +15,6 @@ Sou apaixonado por lógica de programação e desing, e todos meus fundamentos d
 ## Atual foco de desenvolvimento
 
 * Lógica de programação e Algoritmos
-* C e C++
 * SQL
 * MySQL
 * HMTL5 e CSS3
@@ -23,7 +22,6 @@ Sou apaixonado por lógica de programação e desing, e todos meus fundamentos d
 * PHP
 * Angular
 * React
-* Java
 
 ## Participação em projetos notáveis
 
@@ -48,7 +46,6 @@ I am passionate about programming logic and desing, and all my fundamentals of s
 ## Current development focus
 
 * Programming Logic and Algorithms
-* C and C++
 * SQL
 * MySQL
 * HMTL5 and CSS3
@@ -56,7 +53,6 @@ I am passionate about programming logic and desing, and all my fundamentals of s
 * PHP
 * Angular
 * React
-* Java
 
 ## Participation in projects
 
