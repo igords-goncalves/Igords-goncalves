@@ -46,6 +46,6 @@ I am passionate about programming logic and desing, and all my fundamentals of s
 * React
 * Typescript
 
-** My main here is to contribute my knowledge to my projects, and receive knowledge.**
+**My main here is to contribute my knowledge to my projects, and receive knowledge.**
 
 _My collection is based on sharing my projects developed during my journey as a developer, so you'll see projects made in courses and personal projects here._
