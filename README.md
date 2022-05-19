@@ -1,5 +1,3 @@
-![Alt ou título da imagem](https://github.com/Igords-goncalves/Igords-goncalves/blob/main/facebook%20mask.jpg)
-
 [<img target="blank" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/s_igorgoncalves) 
 [<img target="blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-gonçalves-84647235/)
 [<img target="blank" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ds_igorgoncalves/)
@@ -12,26 +10,20 @@ Eu gosto de dizer que "sou um aprendiz nesse mundo tão veloz" e nesse processo 
 Atualmente estou em um processo de transição de carreira, saindo da area industrial administrativa para a área de tecnologia mais focado na área de TI Fullstack, também estou terminando minha formação superior em gestão da tecnologia da informação. Na minha concepção _(e do resto do mundo moderno acredito)_ daqui para frente não existe mais volta quanto a um futuro totalmente tech, então eu não quero estar de fora desse revolução 4.0. 
 Sou apaixonado por lógica de programação e desing, e todos meus fundamentos de estudo são baseados nos princípios da lógica de programação e na resolução de problemas, a partir desse ponto busco desenvolver a linguagem escolhida.
 
-## Atual foco de desenvolvimento
+## Front-end é o meu atual foco de desenvolvimento
 
-* Lógica de programação e Algoritmos
-* SQL
-* MySQL
-* HMTL5 e CSS3
+* Programming Logic and Algorithms
+* MySQL | MongoDb | Potgresql
+* HMTL5 and CSS3
+* Nodejs
 * JavaScript
-* PHP
-* Angular
+* Webpack
 * React
-
-## Participação em projetos notáveis
-
-Insituição         | Ano   | Area                                                                              |
------------------- | ----- | --------------------------------------------------------------------------------  |
-HTML, CSS e JavaScript bootcamp - DIO  | 2021  | HTML, CSS e JavaScript focado no aperfeiçoamento das soluções em Front-end utilizando JavaScript.|
+* Typescript
 
 **Meu objetivo principal aqui é contribuir com meu conhecimento junto aos meus registros, e receber conhecimento.**
 
-_Meu acervo é baseado em compartilhar meus projetos desenvolvidos durante minha jornada como desenvolvedor, por isso você verá projetos feitos em cursos e projetos pessoas por aqui._
+_Meu acervo é baseado em compartilhar meus projetos desenvolvidos durante minha jornada como desenvolvedor, por isso você verá projetos feitos em cursos e projetos pessoais por aqui._
 
 ___________________________________________________________________________
 
@@ -43,22 +35,16 @@ I like saying "I'm a learner in a so fast world"  and in this process of learnin
 Currently I'm in a process of carrer change, going out industrial administrative to tech area with more focus in TI fullstack, I'm also finishing my graduation in information technology. In my opnin (_and all of the world I belive_) going forward, there isn't turing back in a tech world, so I don't wanna be out of this 4th revolution.
 I am passionate about programming logic and desing, and all my fundamentals of study are based on the principles of programming logic and problem solving, from that point I seek to develop the chosen language.
 
-## Current development focus
+## Front-end is my current development focus
 
 * Programming Logic and Algorithms
-* SQL
-* MySQL
+* MySQL | MongoDb | Potgresql
 * HMTL5 and CSS3
+* Nodejs
 * JavaScript
-* PHP
-* Angular
+* Webpack
 * React
-
-## Participation in projects
-
-Institution     | Year   | Area                                                                              |
------------------- | ----- | --------------------------------------------------------------------------------  |
-HTML CSS and JavaScrit bootcamp - DIO  | 2021  | HTML, CSS e JavaScript focusing in improviment of the solutions Front-end using JavaScript. |
+* Typescript
 
 ** My main here is to contribute my knowledge to my projects, and receive knowledge.**
 
