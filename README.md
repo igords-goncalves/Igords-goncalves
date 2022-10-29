@@ -1,5 +1,5 @@
 [<img target="blank" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/s_igorgoncalves) 
-[<img target="blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-gonçalves-84647235/)
+[<img target="blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igords-goncalves/)
 [<img target="blank" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ds_igorgoncalves/)
 
 Desenvolvedor "front-end" em processo de formação cursando "Gestão de TI" no 5° período de 6 e já com experiência em projetos pessoais, colaborativos, freelances e de cursos.
