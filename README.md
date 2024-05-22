@@ -2,6 +2,5 @@
 [<img target="blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igords-goncalves/)
 [<img target="blank" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ds_igorgoncalves/)
 
-Desenvolvedor front-end em transição de carreira cursando "Gestão de TI" no penúltimo período. Tenho experiência em projetos opensource, pessoais, colaborativos e de cursos de capacitação. 
+Desenvolvedor front-end formado "Gestão de TI". Tenho experiência na área além de experiência em projetos opensource, pessoais, colaborativos e de cursos de capacitação. 
 Atualmente estou expandindo meus conhecimentos e aperfeiçoando habilidades que já possuo em tecnologias como React | HTML5 | CSS3 | Typescript | Git e GitHub | SQL | MongoBD | NodeJS | Consumo de APIs | Bootstrap | Sass | NextJS | RxJS | Redux | C# | Gestão de projetos com GitHub Projects, Issues e Milestones, além de trabalhar com metodologias como SCRUM e arduamente com revisões constantes na linguagem JavaScript. Também tenho um breve contato com desenvolvimento usando linguagens de programação como C, PHP e Python.
-Me considero um profissional maduro com mais de 15 anos de mercado de trabalho no geral e responsável, com um bom ímpeto pesquisador, detalhista e com muita facilidade e rapidez no aprendizado que sabe ir atrás de informações para resolver um problema ou desafio.
