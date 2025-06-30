@@ -2,5 +2,8 @@
 [<img target="blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igords-goncalves/)
 [<img target="blank" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ds_igorgoncalves/)
 
-Desenvolvedor front-end formado "Gestão de TI". Tenho experiência na área além de experiência em projetos opensource, pessoais, colaborativos e de cursos de capacitação. 
-Atualmente estou expandindo meus conhecimentos e aperfeiçoando habilidades que já possuo em tecnologias como React | HTML5 | CSS3 | Typescript | Git e GitHub | SQL | MongoBD | NodeJS | Consumo de APIs | Bootstrap | Sass | NextJS | RxJS | Redux | C# | Gestão de projetos com GitHub Projects, Issues e Milestones, além de trabalhar com metodologias como SCRUM e arduamente com revisões constantes na linguagem JavaScript. Também tenho um breve contato com desenvolvimento usando linguagens de programação como C, PHP e Python.
+Sou desenvolvedor Full Stack com forte atuação em front-end e mobile, utilizando tecnologias como ReactJS, NextJS, React Native, TypeScript e testes automatizados. Tenho experiência também no back-end com NodeJS, NestJS e Express, além de bancos como Firebase, MongoDB, MySQL e PostgreSQL.
+
+Atuo com foco em boas práticas, arquitetura de software, CI/CD, DevOps, Docker e Cloud Computing, sempre buscando evolução técnica e aprendizado contínuo de novas ferramentas e linguagens como Angular, VueJS, PHP, Python e C++.
+
+Além da programação, possuo bagagem em design gráfico, UI/UX e boa comunicação entre times multidisciplinares. Sou analítico, comunicativo e proativo na resolução de problemas e aprendizado de novas tecnologias.
